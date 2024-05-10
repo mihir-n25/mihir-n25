@@ -1,22 +1,22 @@
 # This is Mihir Nebani's GitHub Profile! 👋
 
-## About Me ⭐
+## About Me 
 
 Hey there! I'm Mihir, a dedicated developer on a journey of continuous learning , here to crafting web applications that can elevate y(our) online presence.
 
-## My Interests 🦅
+## My Interests 
 
 - 🌱 I’m currently learning Flutter for developing android and IOS apks.
 - 💼 I’m a Full Stack Web Developer , looking forward to collabrate on new/unique projects.
 - 📫 Let's Connect: mihirnebani@gmail.com.
 
-## Projects 🌚
+## Projects 
 
 Here are some of the projects I've been working on:
 
 will display soon
 
-## Skills 💪🏻
+## Skills 
 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 
