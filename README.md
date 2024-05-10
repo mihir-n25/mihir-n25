@@ -1,4 +1,12 @@
-# Welcome to Mihir Nebani's GitHub Profile! 👋
+# This is Mihir Nebani's GitHub Profile! 👋
+
+## GitHub Stats
+
+[![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir-n25&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Streak Stats
+
+[![Mihir's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mihir-n25&theme=cobalt)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
 
@@ -8,7 +16,7 @@ Hey there! I'm Mihir, a dedicated developer on a journey of continuous learning 
 
 - 🌱 I’m currently learning Flutter for developing android and IOS apks.
 - 💼 I’m a Full Stack Web Developer , looking forward to collabrate on new/unique projects.
-- 📫 How to reach me: mihirnebani@gmail.com.
+- 📫 Let's Connect: mihirnebani@gmail.com.
 
 ## Projects
 
