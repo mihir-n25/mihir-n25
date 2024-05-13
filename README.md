@@ -23,7 +23,7 @@ will display soon
 
 - Programming Languages: Java , C , C++ .
 - Technologies : React , Flutter , NodeJS , Figma , Firebase , Convex , TypeScript , NextJS.
-- Other : Problem solving/DSA , project management , leadership .
+- Others : Problem solving/DSA , project management , leadership .
 
 ## GitHub Stats 📈
 
