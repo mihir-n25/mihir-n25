@@ -21,8 +21,8 @@ will display soon
 ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 
 
-- Programming Languages: Java , C , C++ .
-- Technologies : React , Flutter , NodeJS , Figma , Firebase , Convex , TypeScript , NextJS.
+- Programming Languages: Java , C , C++ , JS.
+- Technologies : React , Flutter , NodeJS , Figma , Firebase , Convex , TypeScript , NextJS , MongoDB .
 - Others : Problem solving/DSA , project management , leadership .
 
 ## GitHub Stats 📈
