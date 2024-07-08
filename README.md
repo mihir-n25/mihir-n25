@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hey there! I'm Mihir, a dedicated developer on a journey of continuous learning , here to crafting web applications that can elevate y(our) online presence.
+Hey there! I'm Mihir, a developer, who only codes to the beat of his favorite rap vocals. Here to crafting web applications that can elevate y(our) online presence. 
 
 ## My Interests 
 
