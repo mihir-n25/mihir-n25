@@ -8,7 +8,8 @@ Hey there! I'm Mihir, a developer, who only codes with the beats of his favorite
 
 - 🌱 I’m currently learning Flutter for developing android and IOS apks.
 - 💼 I’m a Full Stack Web Developer , looking forward to collabrate on new/unique projects.
-- 📫 Let's Connect: mihirnebani@gmail.com.
+- 📫 Let's Connect: www.linkedin.com/in/mihir-nebani-mn25
+                     mihirnebani@gmail.com.
 
 ## Projects 
 
